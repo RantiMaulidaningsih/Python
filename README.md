@@ -1,45 +1,17 @@
 <p align="center">
-  <img width="20%" src="./assets/logo.png"><br/><br/>
-  Part of Bellshade Project, managed by <a href="http://discord.gg/S4rrXQU"> WPU Discord Community</a> and <a href="https://discord.gg/eavqxxTU"> Kelas terbuka Discord Community</a> <br>
+  <img width="20%" src="./assets/image.png"><br/><br/>
+  Thanks to Bellshade Project, managed by <a href="http://discord.gg/S4rrXQU"> WPU Discord Community</a> and <a href="https://discord.gg/eavqxxTU"> Kelas terbuka Discord Community</a> <br>
   WPU Community is the fastest growing software developer forum initiated by <a href="https://www.youtube.com/c/WebProgrammingUNPAS"> Mr. Sandhika Galih</a> <br>
   <a href="http://discord.gg/S4rrXQU"><img src="https://img.shields.io/discord/722002048643497994?logo=discord&logoColor=white&style=for-the-badge"></a>
-  <!--
-     visitor badge sementara dikomentar karena ada masalah pada saat display
-  <img alt="Visitor Badge" src="https://visitor-badge.feriirawann.repl.co?username=bellshade&repo=python&label=VISITOR&style=for-the-badge&color=%232BFF84&contentType=svg">
-  -->
-  <img alt="badge lisensi" src="https://img.shields.io/github/license/bellshade/python?logo=github&style=for-the-badge">
-  <img alt="badge codefactor" src="https://img.shields.io/codefactor/grade/github/bellshade/Python/main?label=codefactor%20grade&logo=codefactor&style=for-the-badge">
-  <br>
-  <img src="https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gifv" width=300 height=200> <br>
+
 </p>
 
 Repositori ini berisi kumpulan berbagai macam _source code_ struktur data, algoritma, analisis matematika, dan sebagainya yang diimplementasikan dengan menggunakan bahasa pemrograman Python.
 
 ## 🎉🎉 Selamat Datang di Python 🎉🎉
+### Mulai dari [sini](Basic) 🌟
 
-Python dibuat dan dikembangkan oleh Guido Van Rossum, programmer yang berasal dari Belanda. Pemilihan nama python itu sendiri diambil dari sebuah acara televisi yang lumayan terkenal yang bernama **Moth Python Flying Circus** yang merupakan acara sirkus favorit dari Guido.
-
-Python adalah bahasa pemrograman multi paradigma, pemrogramaan berorientasi objek dan permograman terstruktur juga didukung penuh, dan banyak fiturnya mendukung pemrograman fungsional.
-
-Kelebihan diatara python antara lain
-
-- Mudah digunakan untuk menulis di perangkat lunak terbaru
-- Mudah untuk diajarkan
-- Mendukung **IoT** (**Internet of Things**)
-- Mudah dipahami
-- Serta mudah didapatkan, karena mudah diinstal, python juga termasuk **multiplatform**
-
-Contoh implementasi dari bahasa pemrograman python adalah
-
-- Komputasi ilmiah dan numerik contohnya seperti scipy
-- Aplikasi bisnis seperti tryton
-- Pembuatan game seperti battlefield 2
-- Pengembangan web seperti django atau flask (library)
-- Pengembangan dari situs web dan layanan sperti dropbox, buzfeed dan uber
-
-### Baru Belajar? Mulai dari [sini](Basic) 🌟
-
-Untuk menggunakan repositori dengan maksimal, kalian perlu belajar programming dasar dahulu. Silahkan ikuti alur belajar berikut untuk mempelajari dasar - dasar pemograman langsung menggunakan Python
+Aur belajar berikut untuk mempelajari dasar - dasar pemograman langsung menggunakan Python
 
 | Langkah |              Topik               |                                  Target Pembelajaran                                  |            Materi Rujukan             |
 | :-----: | :------------------------------: | :-----------------------------------------------------------------------------------: | :-----------------------------------: |
@@ -65,7 +37,7 @@ Untuk sekarang, mulai saja dulu dengan [Object Oriented Programming](object_orie
 
 ## 🎓 Topik Lanjutan 🎓
 
-Jika kalian sudah menguasai dasar - dasar pemograman beserta dengan paradigma _Object Oriented Programming_, kalian bisa langsung mengeksplorasi topik - topik lain yang jauh lebih menantang dan tidak kalah seru. Di repositori ini, kami telah menyiapkan beberapa topik yang mungkin kamu suka.
+Jika kalian sudah menguasai dasar - dasar pemograman beserta dengan paradigma _Object Oriented Programming_, kalian bisa langsung mengeksplorasi topik - topik lain yang jauh lebih menantang dan tidak kalah seru. Di repositori ini ada beberapa topik yang mungkin kamu suka.
 
 1.  [Struktur Data](/struktur_data)
 
@@ -89,10 +61,6 @@ Semua _script_ yang ada pada repositori ini, dapat diakses dengan cepat lewat li
   - [Physics](implementation/physics)
 - [Web Programming](web_programming)
 - [Implementasi Matematika](math)
-
-## 🤩 Ayo ikut kami dan berkontribusi! 🤩
-
-Bantuan kalian diperlukan Agar Bellshade dapat lebih jauh lagi membantu anak-anak Indonesia belajar _programming_, kita butuh tenaga kalian!
 
 > "Dengan Bellshade, aku jadi bisa _ngoding_! Terima kasih Bellshade!"
 
